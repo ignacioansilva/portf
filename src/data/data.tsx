@@ -38,7 +38,7 @@ import {
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'Portfolio',
+  title: 'Ignacio Silva',
   description: "Ignacio´s Portfolio",
 };
 
